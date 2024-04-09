@@ -47,4 +47,4 @@ import com.example.assingment1.R.layout.activity_main
              txtResults.text = ""
          }
      }
- }20
+ }
